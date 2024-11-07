@@ -1,4 +1,4 @@
-REM   Script: Session 04
+REM   Script: SAHIL02
 REM   Class
 
 CREATE TABLE Student ( 
