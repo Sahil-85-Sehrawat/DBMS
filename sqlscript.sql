@@ -1,6 +1,3 @@
-REM   Script: SAHIL
-REM   DBMS
-
 CREATE TABLE employee (   
     emp_no NUMBER,   
     emp_name VARCHAR2(10),   
